@@ -1,0 +1,9 @@
+cat commands.txt | ../bbst test_100.txt
+cat commands.txt | ../bbst test_1000.txt
+cat commands.txt | ../bbst test_1000000.txt
+cat commands_1.txt | ../bbst test_100.txt
+cat commands_1.txt | ../bbst test_1000.txt
+cat commands_1.txt | ../bbst test_1000000.txt
+cat commands_2.txt | ../bbst test_100.txt
+cat commands_2.txt | ../bbst test_1000.txt
+cat commands_2.txt | ../bbst test_1000000.txt

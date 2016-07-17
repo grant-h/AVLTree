@@ -1,0 +1,83 @@
+cat commands.txt | ../bbst test_100.txt
+100
+50
+50
+50
+156
+206
+0
+50
+50
+350 50
+350 50
+0 0
+350 50
+271 8
+0 0
+271 2
+267 8
+147 2
+cat commands.txt | ../bbst test_1000.txt
+100
+50
+50
+1333
+152
+1485
+79
+50
+54
+301 10
+350 50
+361 8
+358 3
+349 4
+0 0
+349 4
+349 4
+148 7
+cat commands.txt | ../bbst test_1000000.txt
+104
+54
+54
+1363
+192
+1555
+101
+54
+61
+303 6
+350 54
+363 8
+359 5
+349 7
+0 0
+0
+349 7
+0
+349 7
+146 2
+cat commands_1.txt | ../bbst test_100.txt
+0
+0 0
+271 8
+cat commands_1.txt | ../bbst test_1000.txt
+3600
+0 0
+1995 4
+cat commands_1.txt | ../bbst test_1000000.txt
+7351
+3072 9
+1998 4
+cat commands_2.txt | ../bbst test_100.txt
+9999950
+3 2
+3 2
+cat commands_2.txt | ../bbst test_1000.txt
+10003556
+6 7
+0 0
+cat commands_2.txt | ../bbst test_1000000.txt
+15497670
+6 9
+0 0
